@@ -45,7 +45,7 @@ header {
   gap: 30px;
 }
 .pre-order-btn {
-  width: 150px;
+  max-width: 150px;
   height: 48px;
   border: none;
   border-radius: 8px;
